@@ -922,7 +922,7 @@ export default function App() {
           <div className="relative">
             <div className="rounded-3xl overflow-hidden aspect-[4/3] bg-muted">
               <img
-                src="https://images.unsplash.com/photo-1568772585407-9f217254e8ab?w=700&h=525&fit=crop&auto=format"
+                src="https://images.unsplash.com/photo-1677344758233-6c49769a4554?w=700&h=525&fit=crop&auto=format"
                 alt="Teknisi servismotor sedang memperbaiki motor di lokasi pelanggan"
                 className="w-full h-full object-cover"
                 loading="lazy"
