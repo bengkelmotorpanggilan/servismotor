@@ -378,8 +378,8 @@ export default function App() {
       {/* ── Navbar ─────────────────────────────────────────── */}
       <header
         className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${scrolled
-            ? "bg-background/95 backdrop-blur-sm shadow-md border-b border-border"
-            : "bg-transparent"
+          ? "bg-background/95 backdrop-blur-sm shadow-md border-b border-border"
+          : "bg-transparent"
           }`}
       >
         <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
@@ -395,9 +395,8 @@ export default function App() {
               className="font-extrabold text-lg leading-none"
               style={{ fontFamily: "'Plus Jakarta Sans', sans-serif", color: "#073642" }}
             >
-              <span style={{ color: "#268BD2" }}>Bengkel</span>
+              <span style={{ color: "#268BD2" }}>Servis</span>
               <span style={{ color: "#CB4B16" }}>Motor</span>
-              <span style={{ color: "#073642" }}>Panggilan</span>
             </span>
           </a>
 
@@ -1312,9 +1311,8 @@ export default function App() {
                   className="font-extrabold text-lg"
                   style={{ fontFamily: "'Plus Jakarta Sans', sans-serif" }}
                 >
-                  <span style={{ color: "#268BD2" }}>Bengkel</span>
+                  <span style={{ color: "#268BD2" }}>Servis</span>
                   <span style={{ color: "#CB4B16" }}>Motor</span>
-                  <span className="text-white">Panggilan</span>
                 </span>
               </div>
               <p className="text-sm leading-relaxed mb-4 max-w-xs">
