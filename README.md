@@ -3,9 +3,7 @@
 
   This is a code bundle for Create Motor Workshop Landing Page. The original project is available at https://www.figma.com/design/mmtiRgkvS1hwiHvjxvsHza/Create-Motor-Workshop-Landing-Page.
 
-  ## Running the code
+https://https://bengkelmotor.figma.site
+https://bengkelmobilpanggilan.web.id
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
   
